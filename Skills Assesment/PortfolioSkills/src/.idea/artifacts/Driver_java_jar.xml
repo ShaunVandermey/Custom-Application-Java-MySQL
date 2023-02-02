@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Driver.java:jar">
+    <output-path>$PROJECT_DIR$/../../../../../Exports</output-path>
+    <root id="archive" name="Driver.java.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../../../../Exports/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="FileProcessingAndPolymorphism" />
+      <element id="module-output" name="PortfolioSkills" />
+      <element id="module-output" name="ItemClassSerialized" />
+      <element id="module-output" name="JavaStack" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jdatepicker-2.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mysql-connector-java-8.0.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/flatlaf-3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1 (1)/Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1/FileProcessingAndPolymorphism/src/FileProcessingAndPolymorphism.iml" filepath="$PROJECT_DIR$/../../Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1 (1)/Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1/FileProcessingAndPolymorphism/src/FileProcessingAndPolymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1 (1)/Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1/Flags/src/Flags.iml" filepath="$PROJECT_DIR$/../../Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1 (1)/Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1/Flags/src/Flags.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1 (1)/Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1/Item class serialized and written to binary file/ItemClassSerialized/src/ItemClassSerialized.iml" filepath="$PROJECT_DIR$/../../Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1 (1)/Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1/Item class serialized and written to binary file/ItemClassSerialized/src/ItemClassSerialized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1 (1)/Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1/JavaStack/src/JavaStack.iml" filepath="$PROJECT_DIR$/../../Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1 (1)/Resource for Skill Assessment ICTPRG527 and ICTPRG503 V1.1/JavaStack/src/JavaStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PortfolioSkills.iml" filepath="$PROJECT_DIR$/PortfolioSkills.iml" />
+    </modules>
+  </component>
+</project>

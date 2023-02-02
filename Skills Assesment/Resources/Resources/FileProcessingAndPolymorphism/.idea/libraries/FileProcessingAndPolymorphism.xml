@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FileProcessingAndPolymorphism">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/FileProcessingAndPolymorphism.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

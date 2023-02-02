@@ -1,0 +1,4 @@
+Phone ID;Name;Size;Memory;Camera
+1001;Samsung S4;3.2";2GB;1.6MP
+1002;Samsung S5;4";4gb;4MP
+1003;IPhone ;4";;5MP

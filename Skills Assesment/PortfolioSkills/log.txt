@@ -1,0 +1,29 @@
+JProfiler> Protocol version 65
+JProfiler> Java 16 detected.
+JProfiler> 64-bit library
+JProfiler> Listening locally on port: 34888.
+JProfiler> Enabling native methods instrumentation.
+JProfiler> Can retransform classes.
+JProfiler> Can retransform any class.
+JProfiler> Native library initialized
+JProfiler> VM initialized
+JProfiler> Retransforming 7 base class files.
+JProfiler> Base classes instrumented.
+JProfiler> Waiting for a connection from the JProfiler GUI ...
+JProfiler> Using instrumentation
+JProfiler> Time measurement: elapsed time
+JProfiler> CPU profiling enabled
+May 09, 2022 1:22:32 PM LoginScreen <init>
+INFO: Opening Login Screen
+May 09, 2022 1:23:54 PM LoginScreen validateLogin
+INFO: Validating login.
+May 09, 2022 1:23:54 PM DatabaseConnection executeUsernameQuery
+INFO: Opening connection.
+May 09, 2022 1:23:55 PM DatabaseConnection executeUsernameQuery
+INFO: Closing connection.
+May 09, 2022 1:23:55 PM LoginScreen validateLogin
+INFO: Login Successful.
+May 09, 2022 1:24:26 PM DatabaseConnection getUser
+INFO: Opening connection.
+May 09, 2022 1:24:26 PM DatabaseConnection getUser
+INFO: Closing connection.
